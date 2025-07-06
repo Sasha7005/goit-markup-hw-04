@@ -472,5 +472,9 @@ img {
   background-color: #31d0aa;
 }
 :root {
-  --color: #f4f4fd;
+  --text-color: #f4f4fd;
+}
+
+.description-info {
+  color: var(--text-color);
 }
